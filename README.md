@@ -8,7 +8,7 @@
 
 ## 🔥 About Me
 
-🎯 **Full-Stack Developer** | 💡 **Problem Solver** | ⚡ **Tech Enthusiast**  
+🎯 **Software Developer** | 🎯 **Full-Stack Developer** | 💡 **Problem Solver** | ⚡ **Tech Enthusiast**  
 With expertise in building **scalable web & mobile applications**, I have a passion for turning ideas into reality using code.
 
 - 👨‍💻 **Frontend:** React.js, React Native, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
@@ -42,10 +42,10 @@ I love **open-source contributions**, **mentoring developers**, and **exploring 
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:www.d.praful1021@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/prafuldasmm">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/yourhandle">
